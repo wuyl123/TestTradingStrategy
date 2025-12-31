@@ -1,0 +1,8 @@
+*.zip
+!/updates/*.zip
+.DS_Store
+.idea/
+*/.DS_Store
+*/.idea/
+*/__pycache__/
+python/data/
